@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leleplumi&label=Profile%20views&color=0e75b6&style=flat" alt="leleplumi" /> </p>
 
-- 🔭 Atualmente, Trabalhando com **RETALHOS! [Indev]**
+- 🔭 Atualmente, Trabalhando com **MineDELTA!**
 
 - 📫 Como falar comigo **Discord: leleplumi**
 
